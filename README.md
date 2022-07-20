@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annliajeejo
-- 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning software engineering
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning software engineering 
 
 
 
