@@ -1,2 +1,3 @@
-Passionate Programmer | Computer Science Engineering Student 
+>Passionate Programmer
+>Computer Science Engineering Student 
 
